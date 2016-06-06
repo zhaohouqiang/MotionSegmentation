@@ -1,3 +1,1 @@
-<<<<<<< HEAD
-Project name: motion segmentation
-=======
+Project name: MotionSegmentation
